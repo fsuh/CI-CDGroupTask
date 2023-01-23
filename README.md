@@ -2,6 +2,6 @@
 
 Setting up CICD process using `Git-Action`
 
-34fb1ce1e6391b539490e668605ca4aedaa235d2
+[![CI](https://github.com/fsuh/CI-CDGroupTask/actions/workflows/main.yml/badge.svg)](https://github.com/fsuh/CI-CDGroupTask/actions/workflows/main.yml)
 
 ## Description.
